@@ -3,7 +3,7 @@ import React from 'react'
 const MyPro = () => {
   return (
     <div>
-      <h1>Hi, ramo and Khalo</h1>
+      <h1>Hi, raham dil khan and Khalid hussain</h1>
     </div>
   )
 }
